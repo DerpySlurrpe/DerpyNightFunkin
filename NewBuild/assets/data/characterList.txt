@@ -15,6 +15,11 @@ bf-pixel
 senpai
 senpai-angry
 spirit
-Hex
 hex
 kapi
+garcello
+garcello-ghostly
+garcello-dead
+tabi
+sonic
+sonic-christmas
