@@ -16,10 +16,9 @@ senpai
 senpai-angry
 spirit
 hex
-bf-kapi
-bf-garcello
+kapi
+garcello
 garcello-ghostly
 garcello-dead
 tabi
-sonic
-sonic-christmas
+bf-sonic
