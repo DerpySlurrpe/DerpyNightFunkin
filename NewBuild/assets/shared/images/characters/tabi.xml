@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="tabi.png">
+<TextureAtlas imagePath="TABI.png">
 	<!-- Created with Adobe Animate version 21.0.0.35450 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Dad Sing Note DOWN0000" x="0" y="0" width="608" height="634" pivotX="438.45" pivotY="393.25" frameX="0" frameY="-35" frameWidth="608" frameHeight="669"/>
