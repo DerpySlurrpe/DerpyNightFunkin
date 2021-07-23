@@ -18,7 +18,4 @@ spirit
 hex
 kapi
 garcello
-garcello-ghostly
-garcello-dead
 tabi
-bf-sonic
